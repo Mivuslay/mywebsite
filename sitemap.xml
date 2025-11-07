@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://mivuslay.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://mivuslay.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://mivuslay.github.io/mywebsite/adele.html</loc>
+<lastmod>2025-10-31T08:37:49+02:00</lastmod>
+<image:image>
+<image:loc>https://mivuslay.github.io/mywebsite/media/posts/6/gallery/Adele_-_21-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://mivuslay.github.io/mywebsite/beyonce.html</loc>
+<lastmod>2025-10-31T08:17:32+02:00</lastmod>
+<image:image>
+<image:loc>https://mivuslay.github.io/mywebsite/media/posts/5/gallery/Beyonce_-_Beyonce.svg-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://mivuslay.github.io/mywebsite/drake.html</loc>
+<lastmod>2025-10-31T08:15:56+02:00</lastmod>
+<image:image>
+<image:loc>https://mivuslay.github.io/mywebsite/media/posts/3/gallery/drake-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://mivuslay.github.io/mywebsite/eminem.html</loc>
+<lastmod>2025-10-31T08:16:10+02:00</lastmod>
+<image:image>
+<image:loc>https://mivuslay.github.io/mywebsite/media/posts/4/gallery/eminem-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://mivuslay.github.io/mywebsite/the-groove-gallery.html</loc>
+<lastmod>2025-10-31T09:04:37+02:00</lastmod>
+<image:image>
+<image:loc>https://mivuslay.github.io/mywebsite/media/posts/1/gallery/dynamite-bundle-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
